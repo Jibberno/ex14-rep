@@ -54,3 +54,13 @@ main {
   justify-content: center;
   padding: 2rem;
 }
+
+.desc {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 10px;
+  border: 2px solid #eee;
+  padding: 1rem;
+  overflow: hidden;
+}
