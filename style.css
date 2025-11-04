@@ -39,7 +39,9 @@ footer p {
 
 img {
   width: 100%;
-  height: auto;
+  height: 400px;
+  object-fit: cover;
+  object-position: 10% 30%;
 }
 
 .bear {
